@@ -27,7 +27,8 @@
     "Koopmans": "minimize",
     "Krugman": "hide",
     "Haavelmo": "hide",
-    "Hayek": "hide"
+    "Hayek": "hide",
+    "Hicks": "hide"
   },
   "keywords": {
     "chinks": "hide",
