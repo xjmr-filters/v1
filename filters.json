@@ -26,7 +26,8 @@
     "Leibniz": "minimize",
     "Koopmans": "minimize",
     "Krugman": "hide",
-    "Haavelmo": "hide"
+    "Haavelmo": "hide",
+    "Hayek": "hide"
   },
   "keywords": {
     "chinks": "hide",
