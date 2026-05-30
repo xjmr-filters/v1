@@ -31,7 +31,8 @@
     "Hicks": "hide",
     "Holmström": "minimize",
     "Imbens": "hide",
-    "Kantorovich": "hide"
+    "Kantorovich": "hide",
+    "Klein": "minimize"
   },
   "keywords": {
     "chinks": "hide",
