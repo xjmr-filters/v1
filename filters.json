@@ -6,5 +6,7 @@
     "Dybvig": "hide",
     "Engle": "hide"
   },
-  "keywords": {}
+  "keywords": {
+    "chinks": "hide"
+  }
 }
