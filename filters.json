@@ -19,7 +19,8 @@
     "Samuelson": "hide",
     "North": "hide",
     "Myerson": "hide",
-    "Modigliani": "hide"
+    "Modigliani": "hide",
+    "Miller": "minimize"
   },
   "keywords": {
     "chinks": "hide",
