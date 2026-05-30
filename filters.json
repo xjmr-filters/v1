@@ -25,7 +25,8 @@
     "Leontief": "hide",
     "Leibniz": "minimize",
     "Koopmans": "minimize",
-    "Krugman": "hide"
+    "Krugman": "hide",
+    "Haavelmo": "hide"
   },
   "keywords": {
     "chinks": "hide",
