@@ -24,7 +24,8 @@
     "Master Chief": "hide",
     "Leontief": "hide",
     "Leibniz": "minimize",
-    "Koopmans": "minimize"
+    "Koopmans": "minimize",
+    "Krugman": "hide"
   },
   "keywords": {
     "chinks": "hide",
